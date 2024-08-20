@@ -1,0 +1,7 @@
+**/__pycache__/
+.vscode/
+.mypy_cache/
+.DS_Store
+.pytest_cache/
+eeg-motor-movementimagery-dataset-1.0.0.zip
+files/
